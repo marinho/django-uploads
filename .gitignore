@@ -1,0 +1,6 @@
+.svn
+.bzr
+Thumbs.db
+*.pyc
+.*.swp
+
